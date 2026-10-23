@@ -2,7 +2,7 @@
 
 Site de página única para apresentar o **Roll Timer**, aplicativo Android de temporização para aulas de jiu-jitsu.
 
-🌐 **Site publicado:** https://roll-timer.jooj-soares-227.chatgpt.site
+🌐 **Site publicado:** https://roll-timer-site.vercel.app/
 
 📲 **Download do Android (v1.0.0):** https://github.com/buja23/roll-timer/releases/download/v1.0.0/Roll-Timer.apk
 
